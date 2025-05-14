@@ -3,3 +3,5 @@ https://medium.com/@giovanaarmidoro/10-heur%C3%ADsticas-de-nielsen-projetando-in
 https://brasil.uxdesign.cc/10-heur%C3%ADsticas-de-nielsen-para-o-design-de-interface-58d782821840
 
 https://softdesign.com.br/blog/heuristicas-de-nielsen/#h-heuristicas-de-nielsen-o-que-sao-e-quando-surgiram-nbsp-nbsp
+
+https://www.nngroup.com/articles/which-ux-research-methods/
