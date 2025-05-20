@@ -15,3 +15,5 @@ https://www.attri.com.br/blog/heuristicas-de-nielsen-como-aplicar-no-dia-a-dia-d
 https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
 
 https://www.figma.com/resource-library/human-computer-interaction/
+
+https://medium.com/triadeecoo/como-aplicar-as-10-heur%C3%ADsticas-de-nielsen-fa8b83f48c24
